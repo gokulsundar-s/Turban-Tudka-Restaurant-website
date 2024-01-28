@@ -1,0 +1,25 @@
+::-webkit-scrollbar {
+    width: 8px;
+  }
+::-webkit-scrollbar-track {
+    background: #ffffff; 
+}
+
+::-webkit-scrollbar-thumb {
+    background: #aaaaaa; 
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #959595; 
+}
+
+body{
+    background-image: linear-gradient(rgba(245, 71, 71, 0.150), rgb(249,249,249));
+}
+
+.nav-container{
+    margin: 0;
+}
+
+.footer-container{
+    margin: -1px;
+}

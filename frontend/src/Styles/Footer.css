@@ -1,0 +1,27 @@
+.footer-container{
+    background-color: rgb(27,25,25);
+    justify-content: center;
+    color: white;
+    padding: 20px 0px;
+    text-align: center;
+}
+
+
+.footer1{
+    font-size: 40px;
+    font-family: "Archivo";
+    font-weight: 700;
+}
+
+.footer2{
+    font-family: "roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.footer3{
+    font-family: "roboto";
+    padding-top: 10px;
+    font-size: 16px;
+    font-weight: 100;
+}
