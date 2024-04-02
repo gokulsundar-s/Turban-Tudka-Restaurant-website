@@ -1,0 +1,26 @@
+.home-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.home-content{
+    text-align: center;
+}
+
+.home-image{
+    padding-top: 20px;
+    height: auto;
+    width: 700px;
+}
+
+.home-buttons{
+    padding-top: 50px;
+    display:flex;
+    justify-content: space-around;
+}
+
+.buttons a{
+    text-decoration: none;
+    color:#FFFFFF;
+}

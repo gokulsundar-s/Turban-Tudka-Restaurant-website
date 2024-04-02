@@ -4,7 +4,7 @@ class Navbar extends Component{
     render(){
         return (
             <div className = "navbar-container">
-                <a href="/" className = "navbar-logo"><img src={require("F:/Projects/restaurant/frontend/src/logo.png")} alt="Profile" className = "profile"></img></a>
+                <a href="/" className = "navbar-logo"><img src={require("F:/Projects/restaurant/frontend/src/logo.png")} alt="logo"></img></a>
                 <div>
                     <ul className = "navbar-list">
                         <li><a href="/">Home</a></li>

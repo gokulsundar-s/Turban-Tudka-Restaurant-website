@@ -23,3 +23,29 @@ body{
 .footer-container{
     margin: -1px;
 }
+
+button{
+    font-size: 15px;
+    font-family: "Roboto";
+    border-radius: 5px;
+    padding: 1rem 2rem;
+    border-color: rgb(245,71,72);
+    background-color: rgb(245,71,72);
+    border-style: solid;
+    color: #ffffff;
+}
+
+button:hover{
+    background-color: transparent;
+    color: rgb(245,71,72)    
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Archivo Black";   
+    color: rgb(245,71,72);
+}
+
+p{
+    font-family: "Roboto";
+    color: #202020;
+}
